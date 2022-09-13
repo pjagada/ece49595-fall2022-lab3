@@ -1,1 +1,2 @@
 a. The software project manager is equivaletn to the product owner. The product owner manages a lot of the high level operations, like the direction for the team and managing releases and stakeholders.
+b. A scrum master's job is to manage everything related to the scrum. This includes facilitating sprints, meetings, and standups as well as doing a lot of the JIRA stuff.
